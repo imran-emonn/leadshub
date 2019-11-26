@@ -1,0 +1,115 @@
+@media all and (max-width: 767px) {
+
+    .pd-dd-menu {
+        position: inherit !important;
+        background: transparent !important;
+    }
+
+    .main-menu {
+        margin-top: 35px;
+    }
+
+    .main-nav li {
+        border-bottom: 1px solid #eee;
+    }
+
+    .pd-dd-menu a {
+        border-bottom: 1px solid #eee;
+    }
+
+    .ac-header a {
+        font-size: 15px !important;
+    }
+
+    .ne-left-border {
+        border-right: 0 !important;
+    }
+
+    .dex-header-content h1 {
+        font-size: 25px !important;
+    }
+
+}
+
+@media screen and (max-width: 992px) {
+
+    .p-lr {
+        padding: 10px 5px !important;
+        border-right: 0;
+        border-bottom: 1px solid #ddd;
+    }
+
+    .p-amount {
+        padding: 15px 5px !important;
+    }
+
+    .p-g-start a {
+        margin-bottom: 20px;
+        margin-top: 0 !important;
+    }
+
+}
+
+@media all and (max-width: 991px) {
+
+    .cd-right {
+        margin-left: 0 !important;
+
+    }
+
+    .cd-left {
+        margin-left: 0 !important;
+    }
+
+    .data-cleanse-content {
+        width: 65% !important;
+    }
+
+    .data-enrichment-content {
+        width: 68% !important;
+    }
+
+    .data-oi-right {
+        margin-left: 0px !important;
+    }
+}
+
+@media all and (max-width: 575px) {
+    .rc-area-body {
+        padding: 20px !important;
+
+    }
+
+    .removing-client-area .section-title h2 {
+        font-size: 34px !important;
+    }
+
+    .dex-header-content h1 {
+        font-size: 25px !important;
+    }
+
+    .data-oi-left h1 {
+        font-size: 40px !important;
+    }
+
+    .ro-box {
+        margin: 0 45px !important;
+    }
+
+    .dvf-content {
+        padding: 20px 25px !important;
+    }
+
+    .reaching-out-area .section-title p {
+        width: 80% !important;
+    }
+
+    .dex-slider-area .owl-nav button.owl-prev {
+        left: -6% !important;
+    }
+
+    .dex-slider-area .owl-nav button.owl-next {
+        right: -6% !important;
+    }
+
+}
